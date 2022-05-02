@@ -5,7 +5,7 @@
   "main": "lib/draftjs-utils.js",
   "peerDependencies": {
     "draft-js": "^0.11.x",
-    "immutable": "3.x.x || 4.x.x"
+    "immutable": "^4.x.x"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
